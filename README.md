@@ -42,3 +42,6 @@ Environment: Windows Command Line / PowerShell.
 
 Outcome:
 This task simulates a real-world DevOps scenario where an engineer must provision cloud infrastructure as code. By the end of this task, the intern will understand how to navigate the AWS ecosystem, secure cloud assets, and integrate cloud storage into local applications, forming the basis for more complex cloud architectures.*
+
+*OUTPUT*
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7d6ba1af-adbf-481f-942f-820e1a458d3a" />
